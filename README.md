@@ -1,7 +1,7 @@
 # ⚙️ Oficina Mecânica — SAEP / SENAI
 
 <p align="center">
-  <img src="static/img/banner.png" alt="Banner Oficina Mecânica" width="100%">
+  <img src="static/img/banner.png" alt="" width="100%">
 </p>
 
 <p align="center">
